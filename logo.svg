@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="303.13489mm"
+   height="105.83334mm"
+   viewBox="0 0 303.13488 105.83333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64"
+     inkscape:cx="407.03125"
+     inkscape:cy="78.90625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.581417,-61.137007)">
+    <path
+       id="rect846-0-03"
+       style="fill:#f74204;fill-opacity:1;stroke-width:2.74452;stroke-linecap:square"
+       d="m 96.039757,61.137007 a 26.458333,26.458333 0 0 0 -26.45834,26.458334 h 26.45834 z" />
+    <path
+       id="rect846-0-8"
+       style="fill:#f74204;fill-opacity:1;stroke-width:2.74452;stroke-linecap:square"
+       d="M 96.039757,61.137007 A 26.458333,26.458333 0 0 1 122.4981,87.595337 H 96.039757 Z" />
+    <path
+       id="rect846-0-7"
+       style="fill:#265794;fill-opacity:1;stroke-width:2.74452;stroke-linecap:square"
+       d="M 69.58142,166.97033 A 26.458333,26.458333 0 0 0 96.039757,140.512 H 69.58142 Z" />
+    <path
+       id="rect846-0-3"
+       style="fill:#265794;fill-opacity:1;stroke-width:2.74452;stroke-linecap:square"
+       d="M 96.039757,114.05367 A 26.458333,26.458333 0 0 0 69.58142,140.512 h 26.458337 z" />
+    <g
+       id="g14390">
+      <path
+         id="rect846-0-0"
+         style="fill:#ffbe00;fill-opacity:1;stroke-width:2.74452;stroke-linecap:square"
+         d="M 122.49809,166.97034 A 26.458333,26.458333 0 0 1 96.039753,140.51201 h 26.458337 z" />
+      <rect
+         style="fill:#f74204;fill-opacity:1;stroke-width:2.74451;stroke-linecap:square"
+         id="rect846-1-7"
+         width="26.458334"
+         height="26.458334"
+         x="96.039757"
+         y="87.595337" />
+      <rect
+         style="fill:#ffbe00;fill-opacity:1;stroke-width:2.74451;stroke-linecap:square"
+         id="rect846-1-7-7"
+         width="26.458334"
+         height="26.458334"
+         x="96.039757"
+         y="114.05367" />
+    </g>
+    <circle
+       style="fill:#0d0504;fill-opacity:1;stroke-width:1.88891;stroke-linecap:square"
+       id="path1351-8"
+       cx="82.810593"
+       cy="100.8245"
+       r="13.229167" />
+    <g
+       id="g14385"
+       transform="translate(-2.9765622,2.2575329)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0d0504;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="139.83493"
+         y="96.878845"
+         id="text6540"><tspan
+           sodipodi:role="line"
+           id="tspan6538"
+           style="fill:#0d0504;fill-opacity:1;stroke-width:0.264583"
+           x="139.83493"
+           y="96.878845">GRUPO DE PESQUISA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:24.3282px;line-height:1.25;font-family:sans-serif;fill:#0d0504;fill-opacity:1;stroke:none;stroke-width:0.608207"
+         x="138.19595"
+         y="125.85283"
+         id="text7894"><tspan
+           sodipodi:role="line"
+           id="tspan7892"
+           style="font-weight:bold;fill:#0d0504;fill-opacity:1;stroke-width:0.608207"
+           x="138.19595"
+           y="125.85283">FUNDAMENTOS</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;fill:#0d0504;fill-opacity:1;stroke-width:0.608207"
+           x="138.19595"
+           y="156.26308"
+           id="tspan7896">DA COMPUTAÇÃO</tspan></text>
+    </g>
+  </g>
+</svg>
